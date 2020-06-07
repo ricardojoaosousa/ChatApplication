@@ -41,17 +41,22 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Get picture to send message</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Shot photo to send message</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Shot photo to send message</string>
 	<key>CFBundleURLTypes</key>
-    <array>
-    	<dict>
-    		<key>CFBundleTypeRole</key>
-    		<string>Editor</string>
-    		<key>CFBundleURLSchemes</key>
-    		<array>
-    			<!-- Copied from GoogleService-Info.plist key REVERSED_CLIENT_ID -->
-    			<string>com.googleusercontent.apps.361437884513-chk96njcb8cdk41duibk2qgq4a3utc5s</string>
-    		</array>
-    	</dict>
-    </array>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.361437884513-chk96njcb8cdk41duibk2qgq4a3utc5s</string>
+			</array>
+		</dict>
+	</array>
 </dict>
 </plist>
