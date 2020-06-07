@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "361437884513",
+    "firebase_url": "https://chatflutter-e954b.firebaseio.com",
+    "project_id": "chatflutter-e954b",
+    "storage_bucket": "chatflutter-e954b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361437884513:android:7adc18963a2b7587fa7a20",
+        "android_client_info": {
+          "package_name": "ricardojoaosousa.pt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361437884513-boq1vn96rbidgglu9aq8mikdhe6v7ua3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ricardojoaosousa.pt",
+            "certificate_hash": "65d6c0b60636eb06c3d2550a3a65eef91261c7e8"
+          }
+        },
+        {
+          "client_id": "361437884513-gqggr0edp1fr5vfel3jhuan86tl0tg5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ricardojoaosousa.pt",
+            "certificate_hash": "c266e21538f81ce7257eb29077b7acecee77f0f0"
+          }
+        },
+        {
+          "client_id": "361437884513-vp0sbssf4sntqbr1c5je9e8ha9p8s4hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzphxMmeyXcdIIElIQgW5kXqdxYdGApGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361437884513-vp0sbssf4sntqbr1c5je9e8ha9p8s4hv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
